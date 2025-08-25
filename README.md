@@ -1,7 +1,7 @@
 # Hola 👋, soy Annais Molina  
 
 🎓 Astrónoma de la Universidad de Concepción con Minor en Ciencia de Datos  
-📊 En transición al mundo de la **Ciencia de Datos aplicada a la Banca y Finanzas**  
+📊 En transición al mundo de la **Ciencia de Datos aplicada a la industria: Banca, Retail, Minería**  
 ✨ Apasionada por la Inteligencia Artificial, el Aprendizaje Automático y la Comunicación Científica  
 
 ---
