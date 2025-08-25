@@ -11,23 +11,37 @@
 - 🔭 Tesis en **Astroinformática y Machine Learning aplicado a lentes gravitacionales**  
 - 📚 Formación adicional en **Big Data, Estrategia de Negocios & AI**  
 
-## 🛠 Lenguajes y Herramientas  
 
-**Programación & Manejo de Datos**  
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)  
-- SQL (consultas y manejo de bases de datos)  
+## 🛠️ Tech Stack  
 
-**Machine Learning & Deep Learning**  
-- Modelos: Regresión Logística, Árboles de Decisión, Clustering (K-means, DBSCAN, Jerárquico)  
-- Redes Neuronales: RNN, LSTM, CNN, Autoencoders  
+### Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-**Visualización & Análisis**  
-- Matplotlib, Plotly, Power BI, Tableau (básico)  
+### Data Science & Machine Learning  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 
-**Otros**  
-- Git/GitHub  
-- Hadoop (básico)  
-- Nociones de Arquitectura Cloud (AWS/GCP/Azure)  
+### Visualization & BI  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+
+### Cloud & Tools  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
+### Others  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ---
 
@@ -37,13 +51,6 @@
 
 ---
 
-## ✨ Un poco más sobre mí  
-🌌 Me gusta unir astronomía y machine learning  
-📊 Interesada en el análisis de datos aplicado a **banca y finanzas**  
-🎥 Difusora científica en redes sociales como **@AstroAnnais**  
-🎸 En mi tiempo libre disfruto la música y la creación de contenido  
-
----
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AnnaisMolina&show_icons=true&theme=radical)
 <!--
