@@ -1,12 +1,10 @@
-# Hola 👋, soy Annais Molina  
+# Hola 👋, soy Annais   
 
 🎓 Astrónoma de la Universidad de Concepción con Minor en Ciencia de Datos  
 📊 En transición al mundo de la **Ciencia de Datos aplicada a la industria: Banca, Retail, Minería**  
-✨ Apasionada por la la Tecnología Aplicada, la Innovación y la Comunicación Científica  
-
 ---
 
-## 🌱 Actualmente
+## 🌱 He desarrollado
 - 🚀 Proyectos en **scoring crediticio, segmentación de clientes y predicción de series temporales financieras**  
 - 🔭 Tesis en **Astroinformática y Machine Learning aplicado a lentes gravitacionales**  
 - 📚 Formación adicional en **Big Data, Estrategia de Negocios & AI**  
@@ -29,7 +27,6 @@
 ### Others  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
   
-
 ---
 
 ## 📫 Cómo contactarme  
