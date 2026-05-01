@@ -34,9 +34,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astroannais@gmail.com)  
 
 ---
-
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AnnaisMolina&show_icons=true&theme=radical)
 <!--
 **AnnaisMolina/AnnaisMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
