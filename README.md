@@ -1,7 +1,7 @@
 # Hola 👋, soy Annais   
 
 🎓 Astrónoma de la Universidad de Concepción con Minor en Ciencia de Datos  
-📊 En transición al mundo de la **Ciencia de Datos aplicada a la industria: Banca, Retail, Minería**  
+📊 Analista de Datos en Telecomunicaciones
 ---
 
 ## 🌱 He desarrollado
